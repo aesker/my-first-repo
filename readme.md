@@ -23,7 +23,7 @@ a block
 of code
 ```
 
-Here is how you make [a link](https:////www.wikipedia.org/).
+Here is how you make [a link](https://arsenal.com/).
 
 ![This is an image.](https://www.arsenal.com/sites/default/files/styles/large_16x9/public/images/arsenal_crest.jpg?itok=rHw_FYR2)
 
