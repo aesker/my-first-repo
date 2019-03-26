@@ -26,13 +26,13 @@ Here are a few of my favourite bands:
 
 One of my favourite songs at the moment is "I" by Black Sabbath from the Dehumanizer album, which featured Ronnie James Dio on vocals.
 
-Here's a link to a really great version of the song! !(https://www.youtube.com/watch?v=VHHOwxlESK8)
+Here's a link to a really great version of the song! (https://www.youtube.com/watch?v=VHHOwxlESK8)
 
 The best way to reach me is via email: a.esker10@gmail.com
 
 I am also a big fan of football, and Arsenal is the club of my heart.
 
-You can find their website here [a link](https://arsenal.com/).
+You can find their website [here](https://arsenal.com/).
 
 ![This is an image.](https://www.arsenal.com/sites/default/files/styles/large_16x9/public/images/arsenal_crest.jpg?itok=rHw_FYR2)
 
